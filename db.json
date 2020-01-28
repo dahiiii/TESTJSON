@@ -1,14 +1,4 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
 
 [["Horoscopes accurately predict future events 85% of the time.", false],
  ["The National Weather Service will pay $30 for the rights to any original photograph of lightning. ", false]]
